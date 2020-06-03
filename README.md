@@ -21,7 +21,7 @@
 * Day 18: javascript Misc
 * Day 19:javascript advance
 * Day 20:javascript advance
-* Day 21:Final projeect
+* Day 21:Final project
 
 # Editor link:-- https://scrimba.com/c/cQZBZQHG
 # Link:-- https://www.javatpoint.com/javascript-tutorial

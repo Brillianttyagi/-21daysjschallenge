@@ -1,7 +1,7 @@
 # -21daysjschallenge
 
 * Day 1: variable comments,gloal variable,Data types
-* Day2: Operaters
+* Day2: Array
 * Day 3:Switch
 * Day 4: Loop
 * Day 5:Function

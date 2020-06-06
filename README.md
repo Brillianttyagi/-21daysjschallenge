@@ -2,7 +2,7 @@
 
 * Day 1: variable comments,gloal variable,Data types
 * Day2: Array
-* Day 3:Switch
+* Day 3:javascript DOM
 * Day 4: Loop
 * Day 5:Function
 * Day 6:Javascript objects

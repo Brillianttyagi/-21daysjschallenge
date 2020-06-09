@@ -4,7 +4,7 @@
 * Day2: Array
 * Day 3: javascript BOM
 * Day 4: javascript DOM
-* Day 5:
+* Day 5: Project Calculator
 * Day 6:Javascript Validation
 * Day 7:Javascript BOM
 * Day 8:Javascript DOM

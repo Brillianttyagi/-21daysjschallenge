@@ -6,8 +6,8 @@
 * Day 4: javascript DOM
 * Day 5: Project Calculator
 * Day 6:Javascript Validation
-* Day 7:Javascript BOM
-* Day 8:Javascript DOM
+* Day 7:JSON basic
+* Day 8:JSON Continue
 * Day 9:Javascript DOM continue
 * Day 9: Javascript Validation
 * Day 10: OOPs

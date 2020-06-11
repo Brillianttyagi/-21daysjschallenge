@@ -8,7 +8,7 @@
 * Day 6:Javascript Validation
 * Day 7:JSON basic
 * Day 8:JSON Continue
-* Day 9:Javascript DOM continue
+* Day 9:JSON
 * Day 9: Javascript Validation
 * Day 10: OOPs
 * Day 11: OOPs continue

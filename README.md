@@ -10,7 +10,7 @@
 * Day 8:JSON Continue
 * Day 9:JSON
 * Day 9: Javascript Validation
-* Day 10: OOPs
+* Day 10: OOPS
 * Day 11: OOPs continue
 * Day 12: OOPs continue
 * Day 13: OOPs continue
